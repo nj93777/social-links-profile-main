@@ -10,7 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [https://github.com/nj93777/social-links-profile-main]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://nj93777.github.io/social-links-profile-main/]
 
 ## My process
 
